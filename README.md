@@ -25,9 +25,7 @@ Taking the data over a period of four months from 01/01/2019 to 04/28/2019 we ca
   
 ## Summary
 
+From the summary DataFrame we can ascertain that the majority of PyBer ride sharing is currently in urban areas, that is after all were the most total fares come from. However, there are more drivers than total rides in the urban area leading to less average fare per driver as well as less average fare per ride. There is huge growth potential as there is more demand for drivers than there are total rides in both rural and suburban areas with an emphasis on the suburban area especially as there are only 490 total drivers with 625 total rides. If some urban drivers can be convinced to also give out rides in the suburban area then the average fare per driver would increase in that area but still be much better than the average fare per driver in the urban area. The same goes for the rural area however, this is the place with the least amount of rides and the most average fare per driver. The same strategy can be utilized here with having more drivers in the rural area however due to lack of demand it is unclear whether more drivers would be beneficial. 
 
+From the multiple line graph we can see that the end of February is where the majority of rides are being carried out with the fare in $USD being the most across the three city types. Drivers could be shifted to the suburban area at the last weeks of April as urban rides decrease and suburban rides increase. 
 
-
-
-### Recomendations 
-three of these reccomendations
