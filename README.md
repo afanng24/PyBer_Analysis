@@ -15,11 +15,18 @@ The objective of PyBer_Challange is to create a summary DataFrame of the ride sh
 From the PyBer summary we can see that the majority of rides are in the urban area followed by suburban and then rural areas. There are many more drivers and total rides in the urban area than there are in any other and because of that total fares are also the most there. Because there are so many drivers the average fare per driver and average fare per rider is also less than the other two city types. In summary the majority of PyBer ride sharing is in the urban area. 
 
 
+Taking the data over a period of four months from 01/01/2019 to 04/28/2019 we can plot out the difference overtime between the three city types and their popularity on a multiple line graph. 
+
+![part2](https://user-images.githubusercontent.com/82983000/119174271-5f038a80-ba36-11eb-9c6a-b8fa8c886aba.png)
+
+
+![Pyber_fare_summary](https://user-images.githubusercontent.com/82983000/119173266-07185400-ba35-11eb-90d2-2dffbd1f03a5.png)
+
   
 ## Summary
 
 
-![Pyber_fare_summary](https://user-images.githubusercontent.com/82983000/119173266-07185400-ba35-11eb-90d2-2dffbd1f03a5.png)
+
 
 
 ### Recomendations 
